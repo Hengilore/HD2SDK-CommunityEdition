@@ -52,7 +52,7 @@ f1175472a3f1469a CE-64 Grenadier
 8079db396fbfd31c CE-67 Titan
 813da450b8029cb2 FS-38 Eradicator
 bb8d9bee0012e672 DP-11 Champion of the People
-c04df62c527e2761 TR-9 Cavalier of 
+c04df62c527e2761 TR-9 Cavalier of democracy 
 d451ab9c17f64b19 CW-4 Arctic Ranger
 f1973d347198bd6f EX-16 Prototype 16
 784acdd4158a9a42 CM-10 Clinician
